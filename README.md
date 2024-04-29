@@ -15,7 +15,7 @@ Welcome to my coding journey! Here, you'll find a collection of solutions, insig
 - **Codeforces**: [Profile](https://codeforces.com/profile/Istiaq_Alam)
 - **TopH**: [Profile](https://toph.co/u/Istiak.4128)
 - **CodeChef**: [Profile](https://www.codechef.com/users/istiaqlm)
-- **LeetCode**: [Profile](https://leetcode.com/Istiaq_Alam/)
+- **LeetCode**: [Profile](https://leetcode.com/Istiak_Alam/)
 
 ## What to Expect
 
