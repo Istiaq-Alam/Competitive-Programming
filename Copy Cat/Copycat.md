@@ -1,6 +1,6 @@
 # Toph- CopyCat
 
-[![problem link](https://toph.co/p/copycat)](https://toph.co/p/copycat)
+[⚡Problem Link](https://toph.co/p/copycat)
 
 Limits 1s, 512 MB. 
 <h4>Read an integer variable and print it.</h4>
@@ -17,3 +17,4 @@ Print the integer.
 
 **Sample output:**\
 2
+
