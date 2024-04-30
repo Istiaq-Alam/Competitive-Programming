@@ -1,0 +1,18 @@
+Toph Easy Problem Formatted number:
+
+Step 1 : Taking input as int ;
+Step 2 : Assign int input as String using to_String(int) ;
+Step 3 : Checking from String_Size-3 to 0 for all String index ;
+         [This will check if 3 numbers are together from right side]
+Step 4 : Insert (",") in the string after 3 numbers from right side ;
+	 [Let's use string.insert(index, ",") for inserting in the String] 
+Step 5 : Pointer will decrease 3, form String_size after each iteration ; 
+Step 6 : Insertring done for all String index, return that String ;
+Step 7 : Print the int as String ; 
+
+
+Requirements :
+#include <string>  //string library
+to_String()        //convert int to String 
+String.size()      //calculate size of string 
+String.insert()    //insert in String arry
