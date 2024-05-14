@@ -10,7 +10,7 @@ I'm Istiaq, a passionate Computer Science Engineering student with a knack for c
 
 Welcome to my coding journey! Here, you'll find a collection of solutions, insights, and strategies from my adventures in competitive programming. Join me as we tackle algorithms, master data structures, and unravel the mysteries of code together.
 
-## Platforms I Frequent
+## Platforms I Frequent - 
 
 - **Codeforces**: [Profile](https://codeforces.com/profile/Istiaq_Alam)
 - **TopH**: [Profile](https://toph.co/u/Istiak.4128)
