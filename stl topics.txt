@@ -1,6 +1,6 @@
 Topics of STL :
 1. Order set
-2. Pair - 
+2. Pair  
 3. Vector
 4. Set
 5. Multiset
@@ -9,3 +9,24 @@ Topics of STL :
 8. Queue 
 9. Prority Queue 
 10. Dequeue 
+
+
+__Lecture-01__
+Date : 12-04-25
+
+1. What is STL
+2. vector 
+3. Set
+4. Multiset
+5. Orderset
+6. Pair
+7. Template for Orderset from Github Lik
+9. 
+
+
+
+Problem :
+1. Stack - Valid Paranthisis from leetcode
+2. Inverse Number counter using odered_set
+
+
