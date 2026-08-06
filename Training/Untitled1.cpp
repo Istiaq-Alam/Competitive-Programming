@@ -12,7 +12,7 @@ int main ()
     // v[0];
 
     //cout << *v.begin()<<endl;
-
+                             
     set<int> set1;          //Set is Like vector
     set1.insert(0);
     set1.insert(1);
@@ -32,24 +32,6 @@ int main ()
 
 
     // MultiSet is a set that can have duplicate value/elements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
